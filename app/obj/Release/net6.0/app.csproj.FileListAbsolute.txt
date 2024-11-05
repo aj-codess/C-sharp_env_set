@@ -1,0 +1,15 @@
+/home/aj/code/Berita/c#/c#_cake_build/app/bin/Release/net6.0/app
+/home/aj/code/Berita/c#/c#_cake_build/app/bin/Release/net6.0/app.deps.json
+/home/aj/code/Berita/c#/c#_cake_build/app/bin/Release/net6.0/app.runtimeconfig.json
+/home/aj/code/Berita/c#/c#_cake_build/app/bin/Release/net6.0/app.dll
+/home/aj/code/Berita/c#/c#_cake_build/app/bin/Release/net6.0/app.pdb
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/app.csproj.AssemblyReference.cache
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/app.AssemblyInfoInputs.cache
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/app.AssemblyInfo.cs
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/app.csproj.CoreCompileInputs.cache
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/app.dll
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/refint/app.dll
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/app.pdb
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/app.genruntimeconfig.cache
+/home/aj/code/Berita/c#/c#_cake_build/app/obj/Release/net6.0/ref/app.dll

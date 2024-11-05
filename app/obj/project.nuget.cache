@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9l+uOgSS5pQmrImSqnBiquM96ddUDo7Gov67mwxtUAemwZuAUt2W+8Wwn/Q3t2LIM3Hfh2NVfTQfLUEppf0C6g==",
+  "success": true,
+  "projectFilePath": "/home/aj/code/Berita/c#/c#_cake_build/app/app.csproj",
+  "expectedPackageFiles": [
+    "/home/aj/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/aj/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/aj/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
